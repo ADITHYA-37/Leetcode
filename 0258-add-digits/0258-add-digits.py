@@ -1,3 +1,5 @@
 class Solution:
     def addDigits(self, n: int) -> int:
-        return n and (n - 1) % 9 +1
+        if n == 0:
+            return 0
+        return 1 + (n - 1) % 9

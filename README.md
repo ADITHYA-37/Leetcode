@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ADITHYA-37/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ADITHYA-37/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -70,9 +71,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

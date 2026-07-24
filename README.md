@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/ADITHYA-37/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ADITHYA-37/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ADITHYA-37/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/ADITHYA-37/Leetcode/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Recursion
 |  |
 | ------- |

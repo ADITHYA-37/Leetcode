@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ADITHYA-37/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/ADITHYA-37/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ADITHYA-37/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ADITHYA-37/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ADITHYA-37/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

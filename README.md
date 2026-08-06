@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ADITHYA-37/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADITHYA-37/Leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/ADITHYA-37/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ADITHYA-37/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ADITHYA-37/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Interactive
 |  |

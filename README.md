@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ADITHYA-37/Leetcode/tree/master/0441-arranging-coins) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ADITHYA-37/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/ADITHYA-37/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ADITHYA-37/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ADITHYA-37/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/ADITHYA-37/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADITHYA-37/Leetcode/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ADITHYA-37/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

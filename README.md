@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/ADITHYA-37/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ADITHYA-37/Leetcode/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ADITHYA-37/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ADITHYA-37/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ADITHYA-37/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
@@ -161,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ADITHYA-37/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

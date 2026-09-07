@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ADITHYA-37/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ADITHYA-37/Leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/ADITHYA-37/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ADITHYA-37/Leetcode/tree/master/0441-arranging-coins) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ADITHYA-37/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ADITHYA-37/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ADITHYA-37/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ADITHYA-37/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ADITHYA-37/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ADITHYA-37/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -104,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ADITHYA-37/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ADITHYA-37/Leetcode/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

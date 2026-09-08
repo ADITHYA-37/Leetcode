@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ADITHYA-37/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/ADITHYA-37/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ADITHYA-37/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ADITHYA-37/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ADITHYA-37/Leetcode/tree/master/0283-move-zeroes) |

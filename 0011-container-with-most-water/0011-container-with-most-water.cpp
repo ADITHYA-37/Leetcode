@@ -7,10 +7,7 @@ public:
             if (area > max){
                 max = area;
             }
-            if (a[l] == a[h]){
-                l++;
-            }
-            else if (a[l] < a[h]){
+            if (a[l] <= a[h]){ // for equals to case , we can keep either l++ or h-- , it doesnt matter
                 l++;
             }
             else{

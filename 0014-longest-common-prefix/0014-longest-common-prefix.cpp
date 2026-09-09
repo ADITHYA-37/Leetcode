@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string longestCommonPrefix(vector<string>& s) {
+    string longestCommonPrefix(vector<string>& s) { // this is nlogn * n complexeity , for n2 complexeity see java soln 
         string a,r,b;
         sort(s.begin(),s.end());
         a=s.front();
